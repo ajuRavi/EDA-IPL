@@ -12,7 +12,7 @@ An effective EDA performed on a dataset helps to identify relevant features that
 
 It contains the EDA performed python file and also  the dataset of matches happend and track record of eack ball available between 2008 and 2020.
 
-**Brief Overview of the steps followed **
+**Brief Overview of the steps followed**
 
 1.Problem Statement
 
